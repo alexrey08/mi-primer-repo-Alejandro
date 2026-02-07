@@ -7,4 +7,5 @@ repo de prueba Alejandro
 ## 📋 Sobre este proyecto
 Este es mi primer repositorio en GitHub.  
 Estoy aprendiendo Git y GitHub desde cero.
-## 🎯 Lo que he aprendido hoy
+## 🎯 Lo que he aprendido hoy 
+practica de git a github
